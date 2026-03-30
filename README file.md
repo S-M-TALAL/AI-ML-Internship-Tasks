@@ -105,7 +105,7 @@ os            # File/directory management
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-ml-internship-tasks.git
+   git clone https://github.com/S-M-TALAL/ai-ml-internship-tasks.git
    cd ai-ml-internship-tasks
    ```
 
